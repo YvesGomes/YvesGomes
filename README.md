@@ -6,5 +6,5 @@ Aqui você encontrará meus projetos e códigos em diversas linguagens de progra
 </p><br>
 
 <p align="left">
-  :unicorn: <strong>Linguagens</strong>: <img src="https://skillicons.dev/icons?i=python,css,html,java"/>
+  :unicorn: <strong>Linguagens</strong>: <img src="https://skillicons.dev/icons?i=python,css,html,php,java"/>
 </p>
